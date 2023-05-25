@@ -1,0 +1,8 @@
+.Heading {
+    background: linear-gradient(270deg, #984343 0%, #43ceb2 100%);
+    width: 800px;
+    margin-left: 380px;
+    height: 50px;
+    align-items: center;
+    border-radius: 10px;
+}
