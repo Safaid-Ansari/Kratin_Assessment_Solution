@@ -10,8 +10,6 @@ function App() {
       <div>
         <BrowserRouter>
           <Header></Header>
-
-          <Header></Header>
           <Routes>
             <Route
               path="/add-health-tip"
