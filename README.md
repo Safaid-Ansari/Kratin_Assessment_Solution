@@ -1,5 +1,6 @@
 ## KRATIN SOFTWARE SOLUTIONS ASSIGNMENT
 
+## Hosted URL :: https://kratin-frontend.onrender.com 
 
 ## For running the assignment here few steps 
 
